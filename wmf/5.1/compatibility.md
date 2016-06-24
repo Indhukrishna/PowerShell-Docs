@@ -1,15 +1,18 @@
 ---
-title:   WMF 5.1 Operating System Compatibility
+title:   WMF 5.1 Operating System Compatibility (Preview)
 ms.date:  2016-05-16
-keywords:  powershell,DSC
+keywords:  PowerShell, DSC, WMF
 description:  
 ms.topic:  article
-author:  hemant
+author:  keithb
 manager:  dongill
 ms.prod:  powershell
+ms.technology: WMF
 ---
 
-# WMF 5.1 Operating System Compatibility #
+# WMF 5.1 Operating System Compatibility (Preview)#
+
+> Note: This information is preliminary and subject to change.
 
 >TODO: Add links to specific WMF DLC on the column header
 

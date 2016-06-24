@@ -1,10 +1,20 @@
-# New Scenarios and Features in WMF 5.1 #
+---
+title:   New Scenarios and Features in WMF 5.1 (Preview)
+ms.date:  2016-05-16
+keywords:  PowerShell, DSC, WMF
+description:  
+ms.topic:  article
+author:  keithb
+manager:  dongill
+ms.prod:  powershell
+ms.technology: WMF
+---
 
-`TODO` Add a brief description of new customer-facing features and scenarios enabled in this release. Depending on the number, we may include more structure to group around particular themes.
+# New Scenarios and Features in WMF 5.1 (Preview) #
 
-`TODO` Keep the description terse and wherever possible link into canonical technical documentation to provide examples/code or required deeper conceptual content.
+> Note: This information is preliminary and subject to change.
 
-## Example: PowerShell Editions ##
+## PowerShell Editions ##
 Starting with version 5.1, PowerShell is available in different editions which denote varying feature sets and platform compatibility.
 
 - **Desktop Edition:** Built on .NET Framework and provides compatibility with scripts and modules targeting versions of PowerShell running on full footprint editions of Windows such as Server Core and Windows Desktop.
@@ -16,7 +26,7 @@ Starting with version 5.1, PowerShell is available in different editions which d
 - [Filter Get-Module results by CompatiblePSEditions]()
 - [Prevent script execution unless run on a comaptible edition of PowerShell]()
 
-## Example: Module Analysis Cache ##
+## Module Analysis Cache ##
 Starting with version 5.1, PowerShell provides the following control
 over the file that is used to cache data about a module like the commands it exports.
 
@@ -30,3 +40,5 @@ and is written on a background thread sometime after a module is imported.
 - [Change the default location of the cache]()
 - [Enable or disable file cache]()
 - [Enable or disable cache cleanup]()
+
+## Onege
